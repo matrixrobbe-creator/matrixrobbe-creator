@@ -44,16 +44,18 @@
 
 ---
 
+---
+
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matrixrobbe-creator&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Statistiques GitHub de Maxime" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=matrixrobbe-creator&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matrixrobbe-creator&theme=radical" alt="Résumé du profil GitHub" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matrixrobbe-creator&theme=radical" alt="Statistiques globales" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matrixrobbe-creator&theme=radical" alt="Langages principaux" />
+</p>
 
 ### 🌐 Me contacter
 

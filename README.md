@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, c'est Maxime </h1>
+<h1 align="center">Salut 👋, c'est Maxime Robbe</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Étudiant+BTS+SIO+SLAM;Développeur+Logiciel+%26+Mobile;Passionné+de+Mécanique+Auto" alt="Typing SVG" />
 </p>
@@ -47,8 +47,10 @@
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=matrixrobbe-creator&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-languages/?username=matrixrobbe-creator&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matrixrobbe-creator&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Statistiques GitHub de Maxime" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=matrixrobbe-creator&layout=compact&theme=radical" alt="Langages les plus utilisés" />
 </p>
 
 ---
@@ -56,7 +58,10 @@
 ### 🌐 Me contacter
 
 <p align="center">
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/maxime-robbe/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:matrixrobbe@gmail
+  <a href="mailto:matrixrobbe@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>

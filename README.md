@@ -5,8 +5,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=matrixrobbe-creator&style=flat-square&color=007ec6" alt="Compteur de visiteurs"/>
-  <img src="https://img.shields.io/badge/Statut-En+cours+de+développement-success?style=flat-square&logo=appveyor" alt="Statut"/>
-  <img src="https://img.shields.io/badge/Focus-Fullstack+%26+Mobile-blueviolet?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Statut-En%20cours%20de%20développement-success?style=flat-square" alt="Statut"/>
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20%26%20Mobile-blueviolet?style=flat-square" alt="Focus"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ### 🌐 Me contacter
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maxime-robbe/" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:matrixrobbe@gmail.com">

@@ -2,7 +2,7 @@
 <h3 align="center">A passionate BTS SIO SLAM student & developer based in La Rochelle, France 🇫🇷</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TON-PSEUDO-GITHUB&style=flat-square&color=blue" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=matrixrobbe-creator&style=flat-square&color=blue" alt="Visitor Count"/>
   <img src="https://img.shields.io/badge/Status-Coding%20&%20Building-success?style=flat-square" alt="Status"/>
 </p>
 
@@ -40,8 +40,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=TON-PSEUDO-GITHUB&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-languages/?username=TON-PSEUDO-GITHUB&layout=compact&theme=radical&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=matrixrobbe-creator&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-languages/?username=matrixrobbe-creator&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -49,10 +49,7 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="mailto:ton-email@domain.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ton-profil" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>

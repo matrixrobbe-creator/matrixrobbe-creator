@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, moi c'est Maxime mais j'utilise le pseudo M4tRiX_ aussi</h1>
+<h1 align="center">Salut 👋, moi c'est Maxime mais j'utilise le pseudo M4tRiX_ </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Étudiant+BTS+SIO+SLAM;Développeur+Logiciel+%26+Mobile;Passionné+de+Mécanique+Auto" alt="Typing SVG" />
 </p>
